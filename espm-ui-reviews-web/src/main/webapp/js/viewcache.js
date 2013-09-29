@@ -1,3 +1,5 @@
+jQuery.sap.declare("sap.app.viewCache");
+
 sap.app.viewCache = {
 
 	oViewCache : {},
